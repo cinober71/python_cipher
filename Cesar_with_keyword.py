@@ -1,3 +1,8 @@
+"""
+@senko
+Programmed by Adam Yusenko
+*  2021-09-20 Initial programming
+"""
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 index_to_letter = dict(zip(range(len(alphabet)), alphabet))
