@@ -1,3 +1,8 @@
+"""
+@senko
+Programmed by Adam Yusenko
+*  2021-09-20 Initial programming
+"""
 print("ЗІ Ключове слово ЮСЕНКО_АДАМ.\n")
 text = input('Введите текст для шифрования : ')
 alphabet_ua = u"АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ ."
