@@ -1,3 +1,8 @@
+"""
+@senko
+Programmed by Adam Yusenko
+*  2021-09-20 Initial programming
+"""
 print("ЗІ Варіант 6 Юсенко А.\n")
 text = input('Введите текст для шифрования : ')
 text = [x for x in text]
