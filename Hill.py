@@ -1,3 +1,8 @@
+"""
+@senko
+Programmed by Adam Yusenko
+*  2021-09-20 Initial programming
+"""
 import numpy as np
 from egcd import egcd
 
